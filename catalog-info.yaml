@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: number-api
+  annotations:
+    github.com/project-slug: jamesljnet/number-api
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jamesljnet
